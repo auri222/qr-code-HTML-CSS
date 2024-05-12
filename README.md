@@ -29,7 +29,7 @@ _2. Mobile display_
 
 ### Links
 
-- Live Site URL: [QR code page](https://your-live-site-url.com)
+- Live Site URL: [QR code page](https://auri222.github.io/qr-code-HTML-CSS/)
 
 ## My process
 
